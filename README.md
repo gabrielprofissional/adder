@@ -14,7 +14,7 @@ Aimbot is an assistive program for first-person shooter games that helps players
 ![Screenshot_4](https://github.com/gabrielprofissional/adder/assets/101426136/0e42a9e6-1615-427c-b240-69f1c9900261)
 
 ## Aimbot
-![Screenshot_5](https://github.com/gabrielprofissional/adder/assets/101426136/77a37f05-661a-450c-99b0-16b2498b7ec8)
+![Screenshot_7](https://github.com/gabrielprofissional/adder/assets/101426136/eff07c4c-7399-469e-9f20-ea7f383b315b)
 
 ## Adder
 ![Screenshot_6](https://github.com/gabrielprofissional/adder/assets/101426136/c8904aad-de10-4bec-9d57-a755164d89f4)
